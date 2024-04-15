@@ -1,1 +1,5 @@
-[{"name":"Swedish","filepath":""}]
+[
+  {"name":"Svenska","filepath":"https://raw.githubusercontent.com/jklfgyklddf/fantastic-goggles/main/instdata/se.exe"},
+  {"name":"International English",
+  "filepath":"https://raw.githubusercontent.com/jklfgyklddf/fantastic-goggles/main/instdata/international.exe"}
+]
